@@ -14,4 +14,4 @@ Welcome to my journey! I am a CS student documenting my path to becoming a Data 
 - [ ] **Phase 4:** Projects & Deployment (Day 76-100)
 
 ---
-*Follow my journey on [LinkedIn](YOUR_LINKEDIN_URL_HERE)*
+*Follow my journey on [LinkedIn]www.linkedin.com/in/hammadrizvi-csd*
